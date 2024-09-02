@@ -14,9 +14,8 @@
 
 ```python
 def Jackson():
-  skills = {'Python' : 'Intermediate', 'DSA': 'Intermediate', 'HTML & CSS': 'Beginner', 'Javascript' : 'Beginner'}
+  skills = {'Python' : 'Intermediate', 'DSA': 'Beginner', 'HTML & CSS': 'Intermediate', 'Javascript' : 'Beginner'}
   tools = ['Numpy', 'Pandas', 'Sklearn', 'Matplotlib', 'Seaborn', 'Keras', 'Flask', 'OpenCV', 'Tensorflow']
-  kaggleCompetitions = 1
   activeBlogger = True
   return ∞
 ```
