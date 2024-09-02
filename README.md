@@ -3,7 +3,8 @@
 <h1 align="center"> Hi there, Inamulla! </h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a student, reader and DEVOPS Enthusiast!!
+<img align="right" src="https://github.com/JackJJCodes/JackJJCodes/blob/main/JackFinal.gif" width="150" height="100">
+##  I'm a student, reader and DEVOPS Enthusiast!!
 
 - 🌱 I’m currently learning DevOps Technologies 🤓
 - 👯 Contact : inamulla.siu@gmail.com
