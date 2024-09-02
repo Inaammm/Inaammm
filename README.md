@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inaammm
 - 👀 Currently BCA (bachelor in computer application) graduate
-- 🌱 I’m currently learning DEVOPS
+- 🌱 learning DEVOPS
 - 📫 Contact : inamulla.siu@gmail.com
 - ⚡ technology enthusiast
   
