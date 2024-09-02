@@ -46,8 +46,8 @@ def Jackson():
 
 <p align="center">
 	<a href="https://github.com/Inaammm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/jackson-sondi-0100/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/j_24_07/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https:www.linkedin.com/in/inam-ulla-b754502"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/innaaammm?igsh=djU2YmhkN3ZmZDJ6"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <!-- <h1 align="center"> My Stats! </h1>
