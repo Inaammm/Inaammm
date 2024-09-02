@@ -3,7 +3,8 @@
 <h1 align="center"> Hi there, Inamulla! </h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" src="https://github.com/JackJJCodes/JackJJCodes/blob/main/JackFinal.gif" width="150" height="100">
+<img align="right" src="" width="150" height="100">
+
 ##  I'm a student, reader and DEVOPS Enthusiast!!
 
 - 🌱 I’m currently learning DevOps Technologies 🤓
@@ -12,7 +13,7 @@
 - ⚡ Fun fact: I love football, and reading books!
 
 ```python
-def Jackson():
+def inaammm():
   skills = {'Python' : 'Intermediate', 'DSA': 'Beginner', 'HTML & CSS': 'Intermediate', 'Javascript' : 'Beginner'}
   tools = ['Numpy', 'Pandas', 'Sklearn', 'Matplotlib', 'Seaborn', 'Keras', 'Flask', 'OpenCV', 'Tensorflow']
   activeBlogger = True
