@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning DevOps Technologies 🤓
 - 👯 Contact : inamulla.siu@gmail.com
-- 🥅 2024 Goals: looking forward for a devops internship
+- 🥅 2025 Goals: looking forward for FTE @cisco
 - ⚡ Fun fact: I love football, and reading books!
 
 ```python
