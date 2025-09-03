@@ -5,7 +5,7 @@
 
 <img align="right" src="" width="150" height="100">
 
-##  I'm a student, reader and DEVOPS Enthusiast!!
+##  Software Engineer Trainee @cisco | passionate about Development & Cloud!!
 
 - 🌱 I’m currently learning DevOps Technologies 🤓
 - 👯 Contact : inamulla.siu@gmail.com
