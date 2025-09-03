@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there, Inamulla! </h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" src="<a href="https://www.freepnglogos.com/images/cisco-png-logo-3774.html" width="150" height="100">
+<img align="right" src="" width="150" height="100">
 
 ##  Software Engineer Trainee @cisco | passionate about Development & Cloud!!
 
