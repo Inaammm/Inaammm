@@ -7,7 +7,7 @@
 
 ##  Software Engineer Trainee @cisco | passionate about Development & Cloud!!
 
-- 🌱 I’m currently learning DevOps Technologies 🤓
+- 🌱 apprentices in cisco
 - 👯 Contact : inamulla.siu@gmail.com
 - 🥅 2025 Goals: looking forward for FTE @cisco
 - ⚡ Fun fact: I love football, and reading books!
