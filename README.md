@@ -9,7 +9,7 @@
 
 - 🌱 apprentices in cisco
 - 👯 Contact : inamulla.siu@gmail.com
-- 🥅 2025 Goals: looking forward for FTE @cisco
+- 🥅 2026 Goals: looking forward for FTE @cisco
 - ⚡ Fun fact: I love football, and reading books!
 
 ```python
